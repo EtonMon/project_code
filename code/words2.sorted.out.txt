@@ -1,0 +1,11 @@
+9 words found
+E (0, 3):	sod
+E (1, 0):	pax
+E (2, 0):	ace
+Found all words in 0.000835 seconds
+N (2, 5):	fad
+N (3, 2):	text
+NE(2, 4):	tat
+NW(3, 6):	eft
+SW(0, 6):	tat
+W (2, 4):	tee
